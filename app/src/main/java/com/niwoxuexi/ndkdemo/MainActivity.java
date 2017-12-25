@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         // test feature
 
         // test merge
+
+        // test merge 2
     }
 }
