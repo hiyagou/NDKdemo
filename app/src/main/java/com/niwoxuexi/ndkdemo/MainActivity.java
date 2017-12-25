@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         textView.setText(new JNIUtils().stringFromJNI());
 
         // test feature
+
+        // test merge
     }
 }
